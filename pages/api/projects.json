@@ -1,37 +1,81 @@
 [
   {
     "id": 1,
-    "name": "Driwwwle",
-    "image": "https://imgur.com/kbGs6zH.png",
-    "description": "A platform for web developers to showcase their projects",
-    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
-    "source_code": "https://github.com/itsnitinr/driwwwle-v2",
-    "demo": "https://driwwwle.com/"
+    "name": "BoostStats",
+    "image": "https://github.com/arkorty/booststats-frontend/blob/master/public/og-image.png?raw=true",
+    "description": "Track cohort progress on Google Cloud Skills Boost platform",
+    "tags": ["next", "shadcn", "tailwind", "docker", "goquery"],
+    "source_code": "https://github.com/arkorty/BoostStats",
+    "demo": "https://booststats.webark.in/"
   },
   {
     "id": 2,
-    "name": "PCB Cupid",
-    "image": "https://imgur.com/tAZotn3.png",
-    "description": "E-commerce website for a PCB manufacturing company",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "demo": "https://www.pcbcupid.com/"
+    "name": "RUSTCM-CLI",
+    "image": "https://github.com/arkorty/rustcm-cli/blob/master/blob/cover.png?raw=true",
+    "description": "Authenticated cipher using XChaCha20-Poly1305 in the command-line",
+    "tags": ["orion-rs", "rust"],
+    "source_code": "https://github.com/arkorty/rustcm-cli"
   },
   {
     "id": 3,
-    "name": "HealthyWays",
-    "image": "https://imgur.com/8FFqaX8.png",
-    "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["react", "node", "mongodb", "redux", "razorpay", "material-ui"],
-    "source_code": "https://github.com/itsnitinr/healthyways",
-    "demo": "https://healthyways.herokuapp.com/"
+    "name": "DownLink",
+    "image": "https://github.com/arkorty/DownLink/blob/master/blob/cover.png?raw=true",
+    "description": "Download videos from YouTube and Instagram",
+    "tags": ["react", "material-ui", "tailwind", "docker", "echo", "yt-dlp", "ffmpeg"],
+    "source_code": "https://github.com/arkorty/DownLink",
+    "demo": "https://downlink.webark.in/"
   },
   {
     "id": 4,
-    "name": "VSCode Portfolio",
-    "image": "https://imgur.com/mKkz0iz.png",
-    "description": "A themeable and developer-centric portfolio based on the VSCode",
-    "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/itsnitinr/vscode-portfolio",
-    "demo": "http://vscode-portfolio.vercel.app/"
+    "name": "Room",
+    "image": "https://github.com/arkorty/room-client/blob/main/public/og-image.png?raw=true",
+    "description": "Multi-user room-based text editor",
+    "tags": ["next", "shadcn", "tailwind", "gorilla-websocket", "sqlite", "docker"],
+    "source_code": "https://github.com/arkorty/Room",
+    "demo": "https://room.webark.in/"
+  },
+  {
+    "id": 5,
+    "name": "CodeShare",
+    "image": "https://github.com/arkorty/CodeShare/blob/master/blob/cover.png?raw=true",
+    "description": "Share code snippets easily with a code",
+    "tags": ["next", "tailwind", "postgres", "echo", "docker"],
+    "source_code": "https://github.com/arkorty/CodeShare",
+    "demo": "https://codeshare.webark.in/"
+  },
+  {
+    "id": 6,
+    "name": "Reduce",
+    "image": "https://github.com/arkorty/Reduce/blob/master/blob/cover.png?raw=true",
+    "description": "URL shortner with QR code",
+    "tags": ["next", "tailwind", "postgres", "echo", "docker"],
+    "source_code": "https://github.com/arkorty/Reduce",
+    "demo": "https://r.webark.in/"
+  },
+  {
+    "id": 7,
+    "name": "ExprEval++",
+    "image": "https://github.com/arkorty/ExprEvalplusplus/blob/master/blob/cover.png?raw=true",
+    "description": "Expression evaluator written in C++",
+    "tags": ["c++", "make"],
+    "source_code": "https://github.com/arkorty/ExprEvalplusplus"
+  },
+  {
+    "id": 8,
+    "name": "Neolite",
+    "image": "https://github.com/arkorty/Neolite/blob/master/blob/cover.png?raw=true",
+    "description": "IDE-like Neovim distro with Copilot",
+    "tags": ["vim", "neovim", "lua"],
+    "source_code": "https://github.com/arkorty/Neolite",
+    "demo": ""
+  },
+  {
+    "id": 9,
+    "name": "PrognosAI",
+    "image": "https://github.com/arkorty/PrognosAI/blob/master/blob/cover.jpg?raw=true",
+    "description": "Health risk prediction using machine learning",
+    "tags": ["pytorch", "scikit-learn", "pandas", "numpy", "ffnn", "matplotlib"],
+    "source_code": "https://github.com/arkorty/PrognosAI",
+    "demo": ""
   }
 ]
